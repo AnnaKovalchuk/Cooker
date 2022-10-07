@@ -1,0 +1,9 @@
+C:\Users\stud\Desktop\Поваренок\Поваренок\bin\Debug\Поваренок.exe.config
+C:\Users\stud\Desktop\Поваренок\Поваренок\bin\Debug\Поваренок.exe
+C:\Users\stud\Desktop\Поваренок\Поваренок\bin\Debug\Поваренок.pdb
+C:\Users\stud\Desktop\Поваренок\Поваренок\obj\Debug\Поваренок.csprojAssemblyReference.cache
+C:\Users\stud\Desktop\Поваренок\Поваренок\obj\Debug\Поваренок.Properties.Resources.resources
+C:\Users\stud\Desktop\Поваренок\Поваренок\obj\Debug\Поваренок.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\Поваренок\Поваренок\obj\Debug\Поваренок.exe
+C:\Users\stud\Desktop\Поваренок\Поваренок\obj\Debug\Поваренок.pdb
+C:\Users\stud\Desktop\Поваренок\Поваренок\obj\Debug\Поваренок.FormAuth.resources
